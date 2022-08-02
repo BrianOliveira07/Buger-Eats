@@ -50,7 +50,7 @@ Passo a passo:
 
 Depois verificar o resultado do dashboard através do link:
 
-[Dashboard](https://dashboard.cypress.io/projects/usmosy/runs?branches)
+[Dashboard](https://dashboard.cypress.io/projects/qtttj7/runs?branches)
 
 Feito por Brian Oliveira [Acesse meu linkedin](https://www.linkedin.com/in/brian-oliveira-385356122/)
 
