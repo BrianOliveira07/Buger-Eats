@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrianOliveira07/Cypress.git"
+    "url": "git+https://github.com/BrianOliveira07/buger-eats.git"
   },
   "author": "Brian Ribeiro Oliveira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BrianOliveira07/Cypress/issues"
+    "url": "https://github.com/BrianOliveira07/buger-eats/issues"
   },
-  "homepage": "https://github.com/BrianOliveira07/Cypress#readme",
+  "homepage": "https://github.com/BrianOliveira07/buger-eats#readme",
   "devDependencies": {
     "cypress": "^9.1.1",
     "cypress-file-upload": "^5.0.8",
