@@ -1,4 +1,4 @@
-# buger-eats
+# Buger-Eats
 Projeto de testes de aceitação do app BugerEats
 
 ## Requisitos:
